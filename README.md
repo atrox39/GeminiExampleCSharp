@@ -1,4 +1,4 @@
 # GeminiExample
 
 ### Gemini API KEY
-You need to get [https://aistudio.google.com/app/u/0/apikey](Gemini Studio)
+You need to get [Gemini Studio](https://aistudio.google.com/app/u/0/apikey)
